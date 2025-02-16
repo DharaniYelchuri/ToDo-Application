@@ -1,13 +1,13 @@
 # 📝 Todo Application
 
-A simple and efficient Todo application built with **React** that helps users manage their daily tasks effortlessly. It provides an intuitive interface to add, update, and track tasks seamlessly.
+A simple and efficient Todo application built with **React**. It provides interface to add, update, and delete tasks seamlessly.
 
 ## 🚀 Features
 
-✅ Add new tasks easily  
-✅ Edit and delete tasks
-✅ Responsive design for all screen sizes  
-✅ Smooth user experience with real-time updates  
+✅ Add new tasks easily.  
+✅ Edit and delete tasks.  
+✅ Responsive design for all screen sizes.  
+✅ Smooth user experience with real-time updates.  
 
 ## 🛠️ Tech Stack
 
